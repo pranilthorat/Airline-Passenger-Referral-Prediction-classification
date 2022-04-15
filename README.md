@@ -39,7 +39,7 @@
 * Once we've accomplished our main goal, any passenger reviews in the air transport industry will be predicted, and the task can be completed while the results are studied and business demands are expanded. As a result, the aviation industry may see an increase in growth.
 
 
-![image](https://user-images.githubusercontent.com/92014177/163604206-1eed3635-9405-4b6a-bade-809888ba6cd0.png)
+![image](https://user-images.githubusercontent.com/92014177/163606092-8ed67e57-5925-48d9-840b-e74c1c0da017.png)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
