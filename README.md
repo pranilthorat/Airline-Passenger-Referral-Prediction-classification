@@ -17,9 +17,10 @@
   * [Dataset Information](#dataset-information)
   * [Problem Statement](#Problem-Statement)
   * [Conclusion](#Conclusion)
+  * 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Untitled](https://user-images.githubusercontent.com/92014177/163605351-840980cf-f1f8-455e-87d6-af0e682ee38e.jpg)
 
 
 <h2> :book: Introduction:</h2>
