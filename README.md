@@ -33,7 +33,6 @@
 * So our major goal was to anticipate whether or not passengers will recommend the flight to their friends and Family.
 
 
-* We're also utilizing machine learning to assist in designing our movie and TV programme portfolio by identifying traits that lead to successful content.
 
 * Once we've accomplished our main goal, any passenger reviews in the air transport industry will be predicted, and the task can be completed while the results are studied and business demands are expanded. As a result, the aviation industry may see an increase in growth.
 
