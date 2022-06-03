@@ -29,7 +29,6 @@
 
 * The dataset includes airline reviews with multiple choice and free text questions from 2006 to 2019 for popular airlines across the world. In the spring of 2019, data will be scraped. 
 
-* As of 2019, the dataset contains TV shows and movies available on Netflix. Fixable, a third-party Netflix search engine, provided the data for this study.
 
 * So our major goal was to anticipate whether or not passengers will recommend the flight to their friends and Family.
 
